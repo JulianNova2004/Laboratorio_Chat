@@ -44,7 +44,6 @@ public class RecieveMessageActivity extends Activity {
     public void responderMensaje(View view){
         String respuesta = escribirRespuesta.getText().toString();
         if(!respuesta.isEmpty()){
-            //cargarConversacion();
             chat.add("Cuidador: " + respuesta);
             guardarMensajes();
             finish();
