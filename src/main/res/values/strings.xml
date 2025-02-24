@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="send">Enviar mensaje</string>
+    <string name="hint_message">Escribe algo</string>
+    <string name="reply">Responder</string>
+    <string name="hint_Answer">Responde algo</string>
+</resources>
